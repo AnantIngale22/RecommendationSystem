@@ -1,0 +1,23 @@
+# Tensorflow and pytourch download manually -------
+# #conda create -n ml_env python=3.8
+# conda activate ml_env
+# conda install tensorflow -c conda-forge
+# conda install pytorch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 cpuonly -c pytorch
+# ----------------------------------------------------
+# Core AI/ML
+transformers==4.41.2
+
+# Video Processing
+# decord
+tqdm
+
+# Data Science
+pandas==2.0.3
+numpy==1.23.5
+scikit-learn==1.3.0
+matplotlib==3.7.2
+seaborn==0.12.2
+jupyter==1.0.0
+
+# Utilities
+#ffmpeg (install via system: brew install ffmpeg)

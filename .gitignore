@@ -1,0 +1,16 @@
+*.mp4
+*.MP4
+*.avi
+*.mov
+*.mkv
+*_trimmed*
+archived_videos*/
+new_videos*/
+training_videos*/
+*.h5
+*.pkl
+*.faiss
+__pycache__/
+*.pyc
+.DS_Store
+temp_uploads_*/
