@@ -14,3 +14,7 @@ __pycache__/
 *.pyc
 .DS_Store
 temp_uploads_*/
+data/*.csv
+production_data/*.csv
+enhanced_data/*.csv
+*.csv
